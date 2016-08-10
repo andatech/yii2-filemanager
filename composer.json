@@ -1,13 +1,13 @@
 {
-    "name": "andasoft/yii2-filemanager",
+    "name": "andatech/yii2-filemanager",
     "description": "Filemanager",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "GPL-3.0",
     "minimum-stability": "stable",
     "support": {
-        "source": "https://github.com/miragesoft/yii2-filemanager.git",
-        "issues": "https://github.com/miragesoft/yii2-filemanager/issues"
+        "source": "https://github.com/andatech/yii2-filemanager.git",
+        "issues": "https://github.com/andatech/yii2-filemanager/issues"
     },
     "authors": [
         {
