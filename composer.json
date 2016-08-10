@@ -1,6 +1,6 @@
 {
     "name": "andatech/yii2-filemanager",
-    "description": "Filemanager",
+    "description": "Yii 2 filemanager with CKEditor or TinyMCE",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "GPL-3.0",
@@ -11,7 +11,7 @@
     },
     "authors": [
         {
-            "name": "ANDA TECHNOLOGY",
+            "name": "Anda Tech",
             "email": "kuakling@gmail.com",
             "role" : "Developer"
         }
